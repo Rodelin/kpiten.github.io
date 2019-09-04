@@ -1,5 +1,5 @@
 (function(){
-  var endpoint = " http://haiti24.net/wp-json/wp/v2/posts",
+  var endpoint = "http://digitalborn.org/wp-json/wp/v2/posts",
       itemsPerPage = 3,
       vm;
 
